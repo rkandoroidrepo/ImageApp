@@ -1,0 +1,8 @@
+
+]squid:S1118":Add a private constructor to hide the implicit public one.(€δηÿÿÿÿÿ8‹¦ύθί-
+usquid:S3008"WRename this field "SERVER_ERROR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(φ£„Ξ8ΰψύθί-
+vsquid:S3008"XRename this field "NETWORK_ERROR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ψ¥υπ8‹¦ύθί-
+"squid:ClassVariableVisibilityCheck"YMake NETWORK_ERROR a static final constant or non-public and provide accessors if needed.(ψ¥υπ8‹¦ύθί-
+Qsquid:S1444"3Make this "public static NETWORK_ERROR" field final(ψ¥υπ8‹¦ύθί-
+Psquid:S1444"2Make this "public static SERVER_ERROR" field final(φ£„Ξ8ΰψύθί-
+"squid:ClassVariableVisibilityCheck"XMake SERVER_ERROR a static final constant or non-public and provide accessors if needed.(φ£„Ξ8ΰψύθί-
